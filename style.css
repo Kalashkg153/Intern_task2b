@@ -1,0 +1,19 @@
+
+header{
+    background-color: rgb(226, 180, 27);
+    height: 70px;
+    align-items: center;
+    
+    text-align: center;
+   
+}
+body{
+    background-color: #FFEFEF;
+}
+img{
+    width: 200px;
+    height: 200px;
+}
+.onerow{
+    border: 2px solid red;
+}
